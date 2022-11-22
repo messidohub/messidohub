@@ -1,0 +1,4 @@
+- 👋 Ola, sou o @messidohub
+- 👀 Estou interessado em aprender...
+- 🌱 Desejo publicar meus projetos sempre aprendendo
+- 📫 Por enquanto estou aoprendendo java e github
